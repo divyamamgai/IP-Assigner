@@ -1,0 +1,10 @@
+E:\My Works\IP Assigner\IP Assigner\bin\Debug\IP Assigner.exe.config
+E:\My Works\IP Assigner\IP Assigner\bin\Debug\IP Assigner.exe
+E:\My Works\IP Assigner\IP Assigner\bin\Debug\IP Assigner.pdb
+E:\My Works\IP Assigner\IP Assigner\bin\Debug\IP Assigner.xml
+E:\My Works\IP Assigner\IP Assigner\obj\Debug\IP_Assigner.Resources.resources
+E:\My Works\IP Assigner\IP Assigner\obj\Debug\IP Assigner.vbproj.GenerateResource.Cache
+E:\My Works\IP Assigner\IP Assigner\obj\Debug\IP Assigner.exe
+E:\My Works\IP Assigner\IP Assigner\obj\Debug\IP Assigner.xml
+E:\My Works\IP Assigner\IP Assigner\obj\Debug\IP Assigner.pdb
+E:\My Works\IP Assigner\IP Assigner\obj\Debug\IP_Assigner.Main.resources
